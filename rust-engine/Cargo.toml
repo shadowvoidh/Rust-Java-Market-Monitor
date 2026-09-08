@@ -1,0 +1,29 @@
+[package]
+name = "rust-engine"
+version = "0.1.0"
+edition = "2021"
+description = "Engine local em Rust que consolida cotações de USD, EUR e BTC e expõe REST na porta 8080"
+
+[dependencies]
+# Runtime assíncrono
+tokio = { version = "1", features = ["full"] }
+
+# Servidor web leve
+axum = "0.7"
+
+# Cliente HTTP assíncrono
+reqwest = { version = "0.12", default-features = false, features = ["json", "rustls-tls"] }
+
+# Serialização / desserialização de JSON
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+# CORS (permite o cliente Java/qualquer origem local consumir a API)
+tower-http = { version = "0.5", features = ["cors"] }
+
+# Datas/horas formatadas para "last_update" e "generated_at"
+chrono = "0.4"
+
+[profile.release]
+opt-level = 3
+lto = true

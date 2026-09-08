@@ -1,0 +1,22 @@
+Esta pasta deve conter o JAR do Gson, usado para fazer o parsing do JSON
+retornado pela engine Rust.
+
+Baixe manualmente (Maven Central) e coloque este arquivo aqui:
+
+  gson-2.10.1.jar
+  https://repo1.maven.org/maven2/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar
+
+Alternativas caso prefira usar um gerenciador de build:
+
+  Maven (pom.xml):
+    <dependency>
+      <groupId>com.google.code.gson</groupId>
+      <artifactId>gson</artifactId>
+      <version>2.10.1</version>
+    </dependency>
+
+  Gradle (build.gradle):
+    implementation 'com.google.code.gson:gson:2.10.1'
+
+O guia de compilação (README.md na raiz do projeto) assume que o JAR está
+em java-ui/lib/gson-2.10.1.jar ao montar o classpath manualmente com javac/java.
