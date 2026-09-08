@@ -17,6 +17,7 @@ public class Main {
         try {
             UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
         } catch (Exception ignored) {
+            // Se falhar, seguimos com o look and feel padrão do Swing.
         }
 
         SwingUtilities.invokeLater(() -> {

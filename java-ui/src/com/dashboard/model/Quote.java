@@ -18,7 +18,7 @@ public class Quote {
     private String lastUpdate;
 
     public Quote() {
-
+        // Construtor vazio exigido pelo Gson
     }
 
     public String getSymbol() {
