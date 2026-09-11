@@ -89,9 +89,13 @@ Abra o terminal na pasta raiz do projeto:
 
 ```bash
 cd rust-engine
-cargo run
-Na primeira execução, o Cargo baixará e compilará as dependências. Ao finalizar, você verá a mensagem:
 
+cargo run
+
+```
+
+Na primeira execução, o Cargo baixará e compilará as dependências. Ao finalizar, você verá a mensagem:
+```
 🚀 Rust Engine no ar em http://127.0.0.1:8080
 ```
 
