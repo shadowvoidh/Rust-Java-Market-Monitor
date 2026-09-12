@@ -13,16 +13,16 @@ O projeto utiliza uma **arquitetura híbrida cliente-servidor local**: uma engin
  <br>
 
   <h3>Windows 🪟</h3>
-  <img src="assets/win-screenshot.png" alt="Windows Preview" width="85%">
+  <img src="./assets/win-screenshot.png" alt="Windows Preview" width="85%">
 
   <br><br>
 
   <h3>MacOS 🍎 / Linux 🐧</h3>
   <h3>MacOs</h3>
-  <img src="assets/mac-screenshot.png" alt="macOS Preview" width="85%">
+  <img src="./assets/mac-screenshot.png" alt="macOS Preview" width="85%">
   <br> 
   <h3>Void Linux</h3>
-   <img src="assets/linux-screenshot.png" alt="macOS Preview" width="85%">
+   <img src="./assets/linux-screenshot.png" alt="macOS Preview" width="85%">
 
 </div>
 
