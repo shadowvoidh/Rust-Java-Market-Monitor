@@ -1,3 +1,5 @@
+**[PT-BR ]** |   **[[ENG 🇺🇸 ]](README.en.md)**
+
 # 💹 RustQuote FX — Real-Time Market Dashboard
 
 **RustQuote FX** é uma aplicação desktop híbrida e de alta performance desenvolvida para o monitoramento em tempo real das principais moedas estrangeiras (**USD**, **EUR**) e criptomoedas (**BTC**) convertidas para BRL.
