@@ -168,6 +168,9 @@ The status indicator at the top of the window will show Engine Online in green. 
 
 
 ---
+## 📄 License
+
+Portfolio project, free to study and reuse.
 
 ## 🌘 Author
 * *Shadow_Voidh* - (https://github.com/shadowvoidh)
