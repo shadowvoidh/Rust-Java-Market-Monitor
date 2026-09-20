@@ -166,6 +166,8 @@ Em seguida, inicie a aplicação Java (com.dashboard.Main).
 
 O indicador de status no topo da janela exibirá Engine Online em verde. Caso a engine seja interrompida, o indicador mudará automaticamente para Engine Offline em vermelho.
 
+---
+
 ## 🌘Autor
 * *Shadow_Voidh* - (https://github.com/shadowvoidh)
 
