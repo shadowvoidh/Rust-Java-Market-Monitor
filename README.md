@@ -165,3 +165,13 @@ Inicie primeiro o backend em Rust (cargo run).
 Em seguida, inicie a aplicação Java (com.dashboard.Main).
 
 O indicador de status no topo da janela exibirá Engine Online em verde. Caso a engine seja interrompida, o indicador mudará automaticamente para Engine Offline em vermelho.
+
+## 🌘Autor
+* *Shadow_Voidh* - (https://github.com/shadowvoidh)
+
+## 📬 Contato
+* *GitHub:* [@shadowvoidh](https://github.com/shadowvoidh)
+* *Instagram:* [@shadow_voidh](https://www.instagram.com/shadow_voidh/)
+* *LinkedIn:* [Pedro Carnio](https://linkedin.com/in/pedrocarnio)
+* *Discord:* shadow_voidh
+* *E-mail:* shadow.voidh@gmail.com
