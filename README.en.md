@@ -166,6 +166,9 @@ Then start the Java application (com.dashboard.Main).
 
 The status indicator at the top of the window will show Engine Online in green. If the engine is stopped, the indicator will automatically switch to Engine Offline in red.
 
+
+---
+
 ## 🌘 Author
 * *Shadow_Voidh* - (https://github.com/shadowvoidh)
 
