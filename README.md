@@ -168,6 +168,10 @@ O indicador de status no topo da janela exibirá Engine Online em verde. Caso a 
 
 ---
 
+## 📄 Licença
+
+Projeto de portfólio livre para estudo e reutilização.
+
 ## 🌘Autor
 * *Shadow_Voidh* - (https://github.com/shadowvoidh)
 
